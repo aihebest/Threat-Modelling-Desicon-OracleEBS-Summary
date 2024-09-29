@@ -1,4 +1,4 @@
-# AI Threat Modelling DesiconEngineering Oracle EBS
+# Desicon Engineering: AI Threat Modelling Workshop Summary
 
 ## Introduction
 This document summarizes the key points and outcomes of the AI Threat Modelling Workshop conducted for Desicon Engineering, an oil servicing company. The workshop focused on identifying potential threats and vulnerabilities in AI systems, with particular emphasis on the company's use of AWS to host their Oracle EBS (E-Business Suite) and related AI initiatives.
